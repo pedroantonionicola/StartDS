@@ -28,14 +28,6 @@ h1 {
 
  }
  
-
- 
- 
-
-
-
-
-
 .alignnone{
    margin: 1px 4px 0 0;
    padding: 1px; 
@@ -50,11 +42,15 @@ h1 {
      color:blue;
    font-size:20px;
    
-   
-
-
-
-
-
+   }
+  
+   img{
+    background-color:black;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
    }
    
+
